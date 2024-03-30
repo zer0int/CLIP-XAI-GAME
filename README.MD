@@ -17,8 +17,9 @@
 - Optional: See "YOLO" folder / readme.txt to use your own photos for the game
 - python run-CLIP-matching-pairs.py will launch the GUI
 
-Images via COCO - Common Objects in Context ([https://cocodataset.org/](https://cocodataset.org/))
-
+----
+- Images via COCO - Common Objects in Context ([https://cocodataset.org/](https://cocodataset.org/))
+- Code via GPT-4 aka AI & I
 ----
 
 ![Screenshot](https://github.com/zer0int/CLIP-XAI-GAME/blob/CLIP-vision/examples/screenshot.jpg?raw=true)
