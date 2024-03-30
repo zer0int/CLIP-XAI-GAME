@@ -2,7 +2,7 @@
 
 ## Playing by AI's rules - Matching Pairs / Memory with CLIP
 
-Uses image-image Cosine Similarity pairs to determine what is or isn't a match!
+## Uses image-image Cosine Similarity pairs to determine what is or isn't a match!
 
 Cosine Similarity = 1 means that two images are, in fact, the same image.
 A value of 0.8 - 0.9 may be expected for two different photos that both depict a cat.
