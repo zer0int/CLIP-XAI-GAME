@@ -1,0 +1,6 @@
+git+https://github.com/openai/CLIP.git
+PySide6
+numpy
+matplotlib
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+Pillow
