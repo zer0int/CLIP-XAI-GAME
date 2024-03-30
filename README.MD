@@ -1,4 +1,4 @@
-![Banner](https://github.com/zer0int/CLIP-XAI-GAME/blob/CLIP-vision/examples/screenshot.jpg?raw=true)
+![Banner](https://github.com/zer0int/CLIP-XAI-GAME/blob/CLIP-vision/examples/clip-logo-xai.jpg?raw=true)
 
 # Playing by AI's rules - Matching Pairs / Memory with CLIP
 
@@ -19,3 +19,5 @@ Set the game to a cut-off value of 0.5, and you'll have to guess what kind of mu
 - python run-CLIP-matching-pairs.py will launch the GUI
 
 Images via COCO - Common Objects in Context ([https://cocodataset.org/](https://cocodataset.org/))
+
+![Screenshot](https://github.com/zer0int/CLIP-XAI-GAME/blob/CLIP-vision/examples/screenshot.jpg?raw=true)
