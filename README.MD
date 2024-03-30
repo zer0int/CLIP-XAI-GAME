@@ -1,3 +1,5 @@
+![screenshot](https://github.com/zer0int/CLIP-XAI-GAME/tree/CLIP-vision/examples/screenshot.jpg)
+
 # Playing by AI's rules - Matching Pairs / Memory with CLIP
 
 Uses image-image Cosine Similarity pairs to determine what is or isn't a match!
